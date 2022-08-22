@@ -204,7 +204,7 @@ iec61360:StringTranslatable
         <https://admin-shell.io/aas/3/0/RC01/Key/type>
                 <https://admin-shell.io/aas/3/0/RC01/IdentifiableElements/ConceptDescription> ;
         <https://admin-shell.io/aas/3/0/RC01/Key/value>
-                "www.vdi2770.com/blatt1/Entwurf/Okt18/cd/Description/TitleEdited666555" .
+                "www.vdi2770.com/blatt1/Entwurf/Okt18/cd/Description/TitleEdited666556" .
 
 <https://admin-shell.io/autogen/DefaultDataSpecificationIEC61360/b066f90c-149e-4909-a67e-f3439cd865a3>
         rdf:type  iec61360:DataSpecificationIEC61360 ;
