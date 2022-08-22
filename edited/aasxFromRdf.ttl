@@ -355,7 +355,7 @@ iec61360:StringTranslatable
         <https://admin-shell.io/aas/3/0/RC01/Key/type>
                 <https://admin-shell.io/aas/3/0/RC01/IdentifiableElements/Submodel> ;
         <https://admin-shell.io/aas/3/0/RC01/Key/value>
-                "http.//i40.customer.com/type/1/1/7A7104BDAB57E184" .
+                "http.//i40.customer.com/type/1/1/7A7104BDAB57E184Edited6667" .
 
 <https://admin-shell.io/autogen/DefaultEmbeddedDataSpecification/8f06d02b-1a49-49a6-9179-af7b76f3a286>
         rdf:type  aas:EmbeddedDataSpecification ;
