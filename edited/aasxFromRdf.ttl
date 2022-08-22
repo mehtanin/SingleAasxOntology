@@ -503,7 +503,7 @@ iec61360:StringTranslatable
         <https://admin-shell.io/aas/3/0/RC01/Key/type>
                 <https://admin-shell.io/aas/3/0/RC01/IdentifiableElements/ConceptDescription> ;
         <https://admin-shell.io/aas/3/0/RC01/Key/value>
-                "www.vdi2770.com/blatt1/Entwurf/Okt18/cd/Document6667" .
+                "www.vdi2770.com/blatt1/Entwurf/Okt18/cd/Document6668" .
 
 <https://admin-shell.io/autogen/DefaultAssetAdministrationShellEnvironment/33ae5108-03e6-4049-9fd9-852b8ad2051c>
         rdf:type  aas:AssetAdministrationShellEnvironment ;
