@@ -382,7 +382,7 @@ iec61360:StringTranslatable
         <https://admin-shell.io/aas/3/0/RC01/Key/type>
                 <https://admin-shell.io/aas/3/0/RC01/KeyElements/GlobalReference> ;
         <https://admin-shell.io/aas/3/0/RC01/Key/value>
-                "0173-1#05-AAA650#002Edited" .
+                "0173-1#05-AAA650#002Edited55544" .
 
 <https://admin-shell.io/autogen/DefaultIdentifierKeyValuePair/9c0ceb25-730b-4a94-8771-b0cbbfb21af4>
         rdf:type  aas:IdentifierKeyValuePair ;
